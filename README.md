@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am Rocosteve, amateur developer from Guangdong, China
+I am Rocosteve, an amateur developer from Guangdong, China
 
-My Blog (Chinese only): <a href="https://blog.srowo.cn" target="_blank">https://blog.srowo.cn</a>
+My Blog (Chinese only): https://blog.srowo.cn
 
-Reach me via the email listed in my Github profile
+ヾ(•ω•`)o Reach me via the email listed in my GitHub profile
+
