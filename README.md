@@ -1,2 +1,7 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=diskroco&count_private=true&include_all_commits=true&theme=tokyonight"/>
+
+I am Rocosteve, amateur developer from Guangdong, China
+
+My Blog (Chinese only): <a href="https://blog.srowo.cn" target="_blank">https://blog.srowo.cn</a>
+
+Reach me via the email listed in my Github profile
